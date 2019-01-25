@@ -1,0 +1,9 @@
+"dta"
+{
+	"base"		"base"
+	"title"		"dta"
+	"maps"		"^de_"
+	"menusystem"	"1"
+	"workshop id"	""
+
+}
